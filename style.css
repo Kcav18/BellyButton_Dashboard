@@ -1,0 +1,10 @@
+body{
+    background-color: lightsteelblue;
+}
+
+.jumbotron{
+    background: url("images/laboratory-design.jpg") no-repeat center center;
+    opacity: 0.65;
+    width:max-content;
+    height:auto;
+}
